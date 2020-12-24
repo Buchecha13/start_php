@@ -27,7 +27,7 @@ error_reporting (E_ALL);
     $phone = '';
   }
 ?>
-<a href="admin.php">Посмотреть заявки</a>
+<a href="admin.php">Посмотреть заявки (admin)</a>
 <div class="form">
 <? if ($isSend): ?>
   <p>Ваша заявка принята, ожидайте ответа!</p>
